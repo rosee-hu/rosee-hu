@@ -20,3 +20,4 @@ Feel free to explore my repositories and get in touch!
 ## Contact Me
 📧 [Email](mailto:rosehummusani@gmail.com) | 📍 Dhahran, Eastern  | 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
 
+Feel free to explore my repositories and get in touch!
