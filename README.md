@@ -14,8 +14,6 @@ I’m skilled in a wide range of technologies including:
 
 I enjoy working on projects involving cybersecurity, computer vision, machine learning (ML), deep learning (DL), and productivity apps. I’m always eager to learn, collaborate, and contribute to exciting open-source initiatives.
 
-Feel free to explore my repositories and get in touch!
-
 ---
 ## Contact Me
 📧 [Email](mailto:rosehummusani@gmail.com) | 📍 Dhahran, Eastern  | 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
