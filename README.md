@@ -27,17 +27,6 @@ I love transforming ideas into impactful solutions — from intuitive mobile app
 
 ---
 
-### Featured Work  
-
-| Project | Description |
-|----------|--------------|
-| **[HedgeFund Multi-Agent System](https://huggingface.co/spaces/Rosehu/day3)** | AI-powered portfolio management system built for the **NITA Agentic AI Bootcamp & Hackathon** using CrewAI and OpenAI models. |
-| **CyberGuard** | Machine Learning-based cyberattack detection achieving **98.8% accuracy** for IoBC-enabled energy networks. |
-| **Visual Pollution Detection** | YOLOv5-powered model that identifies visual pollution in urban areas for smart city use. |
-| **SmartStudy** | iOS productivity app for students with Pomodoro, task tracking, and analytics. |
-
----
-
 ### Tech Toolbox  
 
 **Languages:** 
